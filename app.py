@@ -366,7 +366,7 @@ st.sidebar.markdown("---")
 
 github_html = """
 <div style="text-align:center;">
-    <a href="https://github.com/pulagayasree29" target="_blank">
+    <a href="https://github.com/pulagayasree29/Opencv_Image_Processing" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45">
     </a>
     <p style="font-size:14px;">
